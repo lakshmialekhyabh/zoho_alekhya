@@ -2,4 +2,4 @@
 
 I completed the design part.
 
-Please provide the api's then i will bind with javascript.
+I'm learning client-side develpment/design 
